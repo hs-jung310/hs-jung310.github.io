@@ -24,3 +24,6 @@ defaults:
       layout: "post"
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
+# host: 192.168.0.179
+# port: 4000
