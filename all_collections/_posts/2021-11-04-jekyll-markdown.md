@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Jekyll Markdown
+title: article number 1 
 date: 2021-11-04
-categories: ["jekyll", "Test Post", "first post"]
+categories: ["tag1", "tag2", "first post"]
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
+<!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword` -->
+글은 **bold**, _italic_, ~~strikethrough~~ or `keyword` 이 될 수 있습니다.
 
 [Link to another page](./another-page.html).
 
