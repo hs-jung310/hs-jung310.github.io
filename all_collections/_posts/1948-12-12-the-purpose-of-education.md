@@ -2,7 +2,7 @@
 layout: post
 title: 서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”(예시)
 date: 2025-04-11 10:18:00
-categories: [fiction, jekyll]
+categories: [fiction, example]
 ---
 # 서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”
 
