@@ -1,66 +1,148 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-11T18:44:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Test Title for Programmer</title><author><name>Hoseung Jung</name><email>anen0310@dgist.ac.kr</email></author><entry><title type="html">Jekyll Markdown</title><link href="http://localhost:4000/posts/jekyll-markdown/" rel="alternate" type="text/html" title="Jekyll Markdown" /><published>2021-11-04T00:00:00+09:00</published><updated>2021-11-04T00:00:00+09:00</updated><id>http://localhost:4000/posts/jekyll-markdown</id><content type="html" xml:base="http://localhost:4000/posts/jekyll-markdown/"><![CDATA[<p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-11T19:43:23+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Test Title for YOU</title><author><name>Hoseung Jung</name><email>anen0310@dgist.ac.kr</email></author><entry><title type="html">서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”(예시)</title><link href="http://localhost:4000/posts/the-purpose-of-education/" rel="alternate" type="text/html" title="서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”(예시)" /><published>2025-04-11T19:18:00+09:00</published><updated>2025-04-11T19:18:00+09:00</updated><id>http://localhost:4000/posts/the-purpose-of-education</id><content type="html" xml:base="http://localhost:4000/posts/the-purpose-of-education/"><![CDATA[<h1 id="서울시장-도시-균형발전-위해-3기-행정구역-개편-검토">서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”</h1>
 
-<p><a href="./another-page.html">Link to another page</a>.</p>
+<table>
+  <tbody>
+    <tr>
+      <td>**2025년 4월 7일</td>
+      <td>서울특별시청**</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>There should be whitespace between paragraphs.</p>
+<p>서울시가 도시 균형 발전과 자치구 간 행정 효율성 향상을 위해 <strong>3기 행정구역 개편 방안</strong>을 본격적으로 검토 중인 것으로 밝혀졌다.<br />
+오세훈 서울시장은 6일 오전 열린 ‘2025 도시정책 전략회의’에서 “서울의 미래는 균형발전과 행정혁신에 달려 있다”며 “행정구역 개편 논의를 더 이상 미룰 수 없다”고 강조했다.</p>
 
-<p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+<hr />
+
+<h2 id="-개편-배경-심화된-지역-불균형">🔍 개편 배경: 심화된 지역 불균형</h2>
+
+<p>현재 서울은 25개 자치구 체제를 운영 중이나, <strong>강남·마용성(마포, 용산, 성동)</strong> 등 특정 지역으로의 자원 집중과, <strong>동북권·서남권 등의 상대적 소외</strong> 문제가 지속적으로 제기되어 왔다.<br />
+특히 교육, 의료, 문화 인프라에서 큰 격차가 발생하며 시민 생활 전반에 불균형이 발생하고 있다는 지적이 잇따르고 있다.</p>
+
+<blockquote>
+  <p>서울연구원 관계자:<br />
+“서울 내 일부 자치구는 재정자립도가 20%를 밑돌지만, 다른 자치구는 70%를 상회한다.<br />
+지역 간 격차를 방치할 경우 서울 전체의 지속 가능성이 위협받을 수 있다.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-개편-방향-통합과-권한-재조정">🛠 개편 방향: 통합과 권한 재조정</h2>
+
+<p>서울시는 3기 행정구역 개편을 통해</p>
+<ul>
+  <li>기능이 중복되는 자치구 통합</li>
+  <li>행정 권한의 효율적 분산</li>
+  <li>시민 접근성 중심의 서비스 재배치</li>
+</ul>
+
+<p>를 목표로 하고 있다. 구체적으로는 인구 감소 및 행정 수요가 줄어든 자치구의 통합 가능성을 열어두고, 도시철도와 상권 중심으로 <strong>생활권 기반의 구역 재설정</strong> 방안도 논의 중이다.</p>
+
+<blockquote>
+  <p>오 시장:<br />
+“자치구 개편은 단순한 행정 재편이 아니라, 시민의 삶의 질과 직결된 구조 개혁이다.<br />
+정치적 유불리를 떠나 시민 중심의 판단이 필요하다.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="️-찬반-논란-행정-효율성-vs-지역-정체성">⚖️ 찬반 논란: 행정 효율성 vs 지역 정체성</h2>
+
+<p>이번 개편 방안에 대해 전문가들 사이에서는 <strong>행정 효율성</strong> 측면에서 긍정적인 평가가 많지만, 일각에서는 <strong>지역 정체성 훼손</strong> 및 <strong>정치적 반발</strong> 가능성을 우려하고 있다.</p>
+
+<blockquote>
+  <p>한 자치구청장:<br />
+“자치구는 단순한 행정단위가 아니라 지역민의 정체성과 밀접한 상징적 공간이다.<br />
+일방적인 통합 추진은 지역민들의 강한 저항을 부를 수 있다.”</p>
+</blockquote>
+
+<blockquote>
+  <p>김도현 박사(국책연구기관):<br />
+“지금처럼 시대가 바뀌었는데도 30년 전 행정구역을 그대로 유지하는 것은 낡은 정치의 표본이다.<br />
+시민과의 충분한 소통을 전제로 한다면 긍정적 변화로 이어질 것이다.”</p>
+</blockquote>
+
+<hr />
+
+<h2 id="-향후-일정-시민공청회부터-시작">📅 향후 일정: 시민공청회부터 시작</h2>
+
+<p>서울시는 이달 말부터 <strong>지역별 시민 공청회</strong>를 열고 의견을 수렴할 예정이다.<br />
+이후 시의회와의 협의를 거쳐</p>
+<ul>
+  <li><strong>내년 초 시범 자치구 선정</strong></li>
+  <li><strong>2026년 내 개편안 제출</strong></li>
+</ul>
+
+<p>을 목표로 하고 있다.</p>
+
+<blockquote>
+  <p>서울시 관계자:<br />
+“모든 과정은 시민의 의견을 최우선으로 하며, 급하게 밀어붙이지 않겠다.<br />
+서울의 미래를 위한 신중하고 투명한 접근을 하겠다.”</p>
+</blockquote>
+
+<hr />]]></content><author><name>Hoseung Jung</name><email>anen0310@dgist.ac.kr</email></author><category term="fiction" /><category term="jekyll" /><summary type="html"><![CDATA[서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”]]></summary></entry><entry><title type="html">article number 1</title><link href="http://localhost:4000/posts/jekyll-markdown/" rel="alternate" type="text/html" title="article number 1" /><published>2025-04-10T00:00:00+09:00</published><updated>2025-04-10T00:00:00+09:00</updated><id>http://localhost:4000/posts/jekyll-markdown</id><content type="html" xml:base="http://localhost:4000/posts/jekyll-markdown/"><![CDATA[<!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword` -->
+<p>글은 <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del>, <code class="language-plaintext highlighter-rouge">keyword</code>의 스타일이  될 수 있습니다.</p>
+
+<p>하이퍼 링크 예시 입니다. <a href="./another-page.html">Link to another page</a>.</p>
+
+<p>문단의 구분은 공백으로 됩니다.</p>
 
 <h4 id="image">Image</h4>
 
-<p>Images can be clicked to enlarge :)</p>
+<p>이미지는 확대 가능합니다. 다음 이미지는 랜덤이미지입니다. 이미지 등록을 위해 assets폴더를 이용하세요:)</p>
 
 <p><img src="https://picsum.photos/1366/768" alt="Dummy Image 1" />
 <img src="https://picsum.photos/1200/400" alt="Dummy Image 2" /></p>
 
-<h1 id="header-1">Header 1</h1>
+<h1 id="일반적인-글-쓰기-제목-예시">일반적인 글 쓰기 (제목 예시)</h1>
 
-<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+<p>글쓰기는 일반적인 markdown형식을 이용합니다. 지금은 기본 글스타일입니다. 다음 내용은 예시글입니다. 노스탤지어 또는 향수는 타향에서 고향을 그리워하는 것 또는 지나간 시대를 그리워 하는 것을 말한다. 향수를 병에 견주어 향수병이라고 일컫는다.</p>
 
-<h2 id="header-2">Header 2</h2>
-
-<blockquote>
-  <p>This is a blockquote following a header.</p>
-
-  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
-</blockquote>
-
-<h3 id="header-3">Header 3</h3>
+<h2 id="속보-국회-전격-본회의-개최청년-주거안정법-통과">[속보] 국회, 전격 본회의 개최…‘청년 주거안정법’ 통과</h2>
 
 <blockquote>
-  <p>This is another blockquote following header 3</p>
+  <p>인용문 스타일의 글 쓰기 입니다. 다음은 ai로 생성된 기사입니다.</p>
+
+  <p>오늘 오후 국회 본회의에서 ‘청년 주거안정법’이 여야 합의로 전격 통과되었습니다. 
+해당 법안은 2030 세대를 위한 월세 지원 확대, 보증금 대출 이자 감면 등의 내용을 담고 있으며, 
+이르면 오는 7월부터 시행될 예정입니다.
+정부는 “청년의 주거 부담을 줄이는 실질적 전환점이 될 것”이라며 환영 입장을 밝혔습니다.</p>
+
+  <p>#정치뉴스 #청년정책 #국회속보 #주거안정</p>
 </blockquote>
 
-<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
-<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nf">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nf">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">./lang/</span><span class="dl">"</span> <span class="o">+</span> <span class="nx">l</span><span class="p">);</span>
-  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
-<span class="p">};</span>
+<h3 id="정부-차기-총선-대비-개헌-논의-본격화">정부, 차기 총선 대비 개헌 논의 본격화</h3>
+
+<blockquote>
+  <p>글박스 스타일 예시입니다.</p>
+</blockquote>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// 2025년 4월 10일</span>
+<span class="nx">여야</span> <span class="nx">정치권에서</span> <span class="nx">차기</span> <span class="nx">총선을</span> <span class="nx">앞두고</span> <span class="nx">개헌</span> <span class="nx">논의가</span> <span class="nx">다시금</span> <span class="nx">수면</span> <span class="nx">위로</span> <span class="nx">떠올랐다</span><span class="p">.</span>
+<span class="nx">대통령</span> <span class="mi">4</span><span class="nx">년</span> <span class="nx">중임제</span><span class="p">,</span> <span class="nx">권력구조</span> <span class="nx">개편</span><span class="p">,</span> <span class="nx">국회</span> <span class="nx">제도</span> <span class="nx">개선</span> <span class="nx">등이</span> <span class="nx">주요</span> <span class="nx">의제로</span> <span class="nx">떠오르고</span> <span class="nx">있으며</span>
+<span class="nx">정치권</span> <span class="nx">내에서는</span> <span class="err">“</span><span class="nx">국민적</span> <span class="nx">공감대가</span> <span class="nx">전제되어야</span> <span class="nx">한다</span><span class="err">”</span><span class="nx">는</span> <span class="nx">신중론과</span> <span class="err">“</span><span class="nx">지금이</span> <span class="nx">적기</span><span class="err">”</span><span class="nx">라는</span>
+ <span class="nx">추진론이</span> <span class="nx">맞서고</span> <span class="nx">있다</span><span class="p">.</span>
 </code></pre></div></div>
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
-<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
-  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
-<span class="k">end</span>
-</code></pre></div></div>
-
-<h4 id="header-4">Header 4</h4>
-
+<h4 id="키워드-뉴스">키워드 뉴스</h4>
+<p>순서가 없는 목록 예시입니다.</p>
 <ul>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
-  <li>This is an unordered list following a header.</li>
+  <li>청와대, 디지털 안보 협력 위한 한미정상회담 준비</li>
+  <li>국회, 정치자금법 개정안 본회의 통과</li>
+  <li>제3지대 신당 창당 본격화… 중도층 재편 움직임</li>
 </ul>
 
-<h5 id="header-5">Header 5</h5>
-
+<h5 id="키워드-뉴스-1">키워드 뉴스</h5>
+<p>순서가 있는는 목록 예시입니다.</p>
 <ol>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
-  <li>This is an ordered list following a header.</li>
+  <li>청와대, 디지털 안보 협력 위한 한미정상회담 준비</li>
+  <li>국회, 정치자금법 개정안 본회의 통과</li>
+  <li>제3지대 신당 창당 본격화… 중도층 재편 움직임</li>
 </ol>
 
-<h6 id="header-6">Header 6</h6>
+<h6 id="표-예시">표 예시</h6>
+<p>표 사용 예시입니다.</p>
 
 <table>
   <thead>
@@ -94,87 +176,12 @@
   </tbody>
 </table>
 
-<h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
+<h3 id="구분선-사용-예시">구분선 사용 예시</h3>
 
 <hr />
 
-<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
-
-<ul>
-  <li>Item foo</li>
-  <li>Item bar</li>
-  <li>Item baz</li>
-  <li>Item zip</li>
-</ul>
-
-<h3 id="and-an-ordered-list">And an ordered list:</h3>
-
-<ol>
-  <li>Item one
-    <ol>
-      <li>Item one</li>
-      <li>Item two
-        <ol>
-          <li>Item one</li>
-          <li>Item two</li>
-          <li>Item three</li>
-        </ol>
-      </li>
-      <li>Item three</li>
-    </ol>
-  </li>
-  <li>Item four</li>
-  <li>Item two</li>
-  <li>Item three</li>
-  <li>Item four</li>
-</ol>
-
-<h3 id="and-a-nested-list">And a nested list:</h3>
-
-<ul>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item
-        <ul>
-          <li>level 3 item</li>
-          <li>level 3 item</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item
-    <ul>
-      <li>level 2 item</li>
-      <li>level 2 item</li>
-    </ul>
-  </li>
-  <li>level 1 item</li>
-</ul>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>긴 글은 글박스에 스크롤을 만듭니다. 다음 내용은 예시입니다. 다음 내용은 예시글입니다. 노스탤지어 또는 향수는 타향에서 고향을 그리워하는 것 또는 지나간 시대를 그리워 하는 것을 말한다. 향수를 병에 견주어 향수병이라고 일컫는다.
 </code></pre></div></div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
-</code></pre></div></div>]]></content><author><name>Hoseung Jung</name><email>anen0310@dgist.ac.kr</email></author><category term="jekyll" /><category term="Test Post" /><category term="first post" /><summary type="html"><![CDATA[Text can be bold, italic, strikethrough or keyword]]></summary></entry><entry><title type="html">The Purpose of Education</title><link href="http://localhost:4000/posts/the-purpose-of-education/" rel="alternate" type="text/html" title="The Purpose of Education" /><published>1948-12-12T19:18:00+09:00</published><updated>1948-12-12T19:18:00+09:00</updated><id>http://localhost:4000/posts/the-purpose-of-education</id><content type="html" xml:base="http://localhost:4000/posts/the-purpose-of-education/"><![CDATA[<p>As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
-
-<p><img src="https://picsum.photos/800/300" alt="alt" /></p>
-
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>
-
-<p>Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.</p>
-
-<p>The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.</p>
-
-<p>The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?</p>
-
-<p>We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.</p>
-
-<p>If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, “brethren!” Be careful, teachers!</p>]]></content><author><name>Hoseung Jung</name><email>anen0310@dgist.ac.kr</email></author><category term="fiction" /><category term="jekyll" /><summary type="html"><![CDATA[As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary></entry></feed>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The finals.
+</code></pre></div></div>]]></content><author><name>Hoseung Jung</name><email>anen0310@dgist.ac.kr</email></author><category term="tag1" /><category term="tag2" /><category term="first post" /><summary type="html"><![CDATA[글은 bold, italic, strikethrough, keyword의 스타일이 될 수 있습니다.]]></summary></entry></feed>

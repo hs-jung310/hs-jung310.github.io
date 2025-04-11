@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,300;0,400;0,800;1,100;1,300;1,400;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
 
 :root {
   --gray-1: #3f3f3f;
@@ -9,6 +10,7 @@
   --gray-6: #f87070;
   --white-1: #078f8f;
   --white-2: #eeeeee;
+  --reverse-gray3: #006a6a;
 }
 * {
   font-family: inherit;
@@ -27,6 +29,7 @@ body {
   color: var(--white-2);
   background-color: var(--gray-6);
   font-family: "JetBrains Mono", monospace;
+  font-family: "Noto Sans KR", sans-serif;
   line-height: 2rem;
   background-color: var(--gray-5);
 }
@@ -96,8 +99,8 @@ main {
 }
 .articles .article .article-title,
 .articles .article .article-title a {
-  color: var(--white-2);
-  font-weight: 100;
+  color: var(--reverse-gray3);
+  font-weight: 1500;
   font-style: italic;
   font-size: 1.4rem;
   line-height: 130%;

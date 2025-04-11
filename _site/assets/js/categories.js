@@ -1,4 +1,4 @@
-const categories = { fiction: [{ url: `/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},],jekyll: [{ url: `/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},{ url: `/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},],Test_Post: [{ url: `/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},],first_post: [{ url: `/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},], }
+const categories = { tag1: [{ url: `/posts/jekyll-markdown/`, date: `10 Apr 2025`, title: `article number 1`},],tag2: [{ url: `/posts/jekyll-markdown/`, date: `10 Apr 2025`, title: `article number 1`},],first_post: [{ url: `/posts/jekyll-markdown/`, date: `10 Apr 2025`, title: `article number 1`},],fiction: [{ url: `/posts/the-purpose-of-education/`, date: `11 Apr 2025`, title: `서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”(예시)`},],jekyll: [{ url: `/posts/the-purpose-of-education/`, date: `11 Apr 2025`, title: `서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”(예시)`},], }
 
 console.log(categories)
 

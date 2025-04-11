@@ -1,22 +1,70 @@
 ---
 layout: post
-title: The Purpose of Education
-date: 1948-12-12 10:18:00
+title: 서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”(예시)
+date: 2025-04-11 10:18:00
 categories: [fiction, jekyll]
 ---
+# 서울시장 “도시 균형발전 위해 3기 행정구역 개편 검토”
 
-As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+**2025년 4월 7일 | 서울특별시청**
 
-![alt](https://picsum.photos/800/300)
+서울시가 도시 균형 발전과 자치구 간 행정 효율성 향상을 위해 **3기 행정구역 개편 방안**을 본격적으로 검토 중인 것으로 밝혀졌다.  
+오세훈 서울시장은 6일 오전 열린 '2025 도시정책 전략회의'에서 “서울의 미래는 균형발전과 행정혁신에 달려 있다”며 “행정구역 개편 논의를 더 이상 미룰 수 없다”고 강조했다.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+---
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+## 🔍 개편 배경: 심화된 지역 불균형
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+현재 서울은 25개 자치구 체제를 운영 중이나, **강남·마용성(마포, 용산, 성동)** 등 특정 지역으로의 자원 집중과, **동북권·서남권 등의 상대적 소외** 문제가 지속적으로 제기되어 왔다.  
+특히 교육, 의료, 문화 인프라에서 큰 격차가 발생하며 시민 생활 전반에 불균형이 발생하고 있다는 지적이 잇따르고 있다.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+> 서울연구원 관계자:  
+> “서울 내 일부 자치구는 재정자립도가 20%를 밑돌지만, 다른 자치구는 70%를 상회한다.  
+> 지역 간 격차를 방치할 경우 서울 전체의 지속 가능성이 위협받을 수 있다.”
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+---
 
-If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+## 🛠 개편 방향: 통합과 권한 재조정
+
+서울시는 3기 행정구역 개편을 통해  
+- 기능이 중복되는 자치구 통합  
+- 행정 권한의 효율적 분산  
+- 시민 접근성 중심의 서비스 재배치  
+
+를 목표로 하고 있다. 구체적으로는 인구 감소 및 행정 수요가 줄어든 자치구의 통합 가능성을 열어두고, 도시철도와 상권 중심으로 **생활권 기반의 구역 재설정** 방안도 논의 중이다.
+
+> 오 시장:  
+> “자치구 개편은 단순한 행정 재편이 아니라, 시민의 삶의 질과 직결된 구조 개혁이다.  
+> 정치적 유불리를 떠나 시민 중심의 판단이 필요하다.”
+
+---
+
+## ⚖️ 찬반 논란: 행정 효율성 vs 지역 정체성
+
+이번 개편 방안에 대해 전문가들 사이에서는 **행정 효율성** 측면에서 긍정적인 평가가 많지만, 일각에서는 **지역 정체성 훼손** 및 **정치적 반발** 가능성을 우려하고 있다.
+
+> 한 자치구청장:  
+> “자치구는 단순한 행정단위가 아니라 지역민의 정체성과 밀접한 상징적 공간이다.  
+> 일방적인 통합 추진은 지역민들의 강한 저항을 부를 수 있다.”
+
+> 김도현 박사(국책연구기관):  
+> “지금처럼 시대가 바뀌었는데도 30년 전 행정구역을 그대로 유지하는 것은 낡은 정치의 표본이다.  
+> 시민과의 충분한 소통을 전제로 한다면 긍정적 변화로 이어질 것이다.”
+
+---
+
+## 📅 향후 일정: 시민공청회부터 시작
+
+서울시는 이달 말부터 **지역별 시민 공청회**를 열고 의견을 수렴할 예정이다.  
+이후 시의회와의 협의를 거쳐  
+- **내년 초 시범 자치구 선정**  
+- **2026년 내 개편안 제출**  
+
+을 목표로 하고 있다.
+
+> 서울시 관계자:  
+> “모든 과정은 시민의 의견을 최우선으로 하며, 급하게 밀어붙이지 않겠다.  
+> 서울의 미래를 위한 신중하고 투명한 접근을 하겠다.”
+
+---
+

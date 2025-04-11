@@ -1,68 +1,65 @@
 ---
 layout: post
 title: article number 1 
-date: 2021-11-04
+date: 2025-04-10
 categories: ["tag1", "tag2", "first post"]
 ---
 
 <!-- Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword` -->
-글은 **bold**, _italic_, ~~strikethrough~~ or `keyword` 이 될 수 있습니다.
+글은 **bold**, _italic_, ~~strikethrough~~, `keyword`의 스타일이  될 수 있습니다.
 
-[Link to another page](./another-page.html).
+하이퍼 링크 예시 입니다. [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+문단의 구분은 공백으로 됩니다.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### Image 
 
-#### Image
-
-Images can be clicked to enlarge :)
+이미지는 확대 가능합니다. 다음 이미지는 랜덤이미지입니다. 이미지 등록을 위해 assets폴더를 이용하세요:)
 
 ![Dummy Image 1](https://picsum.photos/1366/768)
 ![Dummy Image 2](https://picsum.photos/1200/400)
 
-# Header 1
+# 일반적인 글 쓰기 (제목 예시)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+글쓰기는 일반적인 markdown형식을 이용합니다. 지금은 기본 글스타일입니다. 다음 내용은 예시글입니다. 노스탤지어 또는 향수는 타향에서 고향을 그리워하는 것 또는 지나간 시대를 그리워 하는 것을 말한다. 향수를 병에 견주어 향수병이라고 일컫는다.
 
-## Header 2
+## [속보] 국회, 전격 본회의 개최…‘청년 주거안정법’ 통과
 
-> This is a blockquote following a header.
+> 인용문 스타일의 글 쓰기 입니다. 다음은 ai로 생성된 기사입니다.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 오늘 오후 국회 본회의에서 ‘청년 주거안정법’이 여야 합의로 전격 통과되었습니다. 
+해당 법안은 2030 세대를 위한 월세 지원 확대, 보증금 대출 이자 감면 등의 내용을 담고 있으며, 
+이르면 오는 7월부터 시행될 예정입니다.
+>정부는 "청년의 주거 부담을 줄이는 실질적 전환점이 될 것"이라며 환영 입장을 밝혔습니다.
+>
+>#정치뉴스 #청년정책 #국회속보 #주거안정
 
-### Header 3
+### 정부, 차기 총선 대비 개헌 논의 본격화
 
-> This is another blockquote following header 3
+> 글박스 스타일 예시입니다. 
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
+// 2025년 4월 10일
+여야 정치권에서 차기 총선을 앞두고 개헌 논의가 다시금 수면 위로 떠올랐다.
+대통령 4년 중임제, 권력구조 개편, 국회 제도 개선 등이 주요 의제로 떠오르고 있으며
+정치권 내에서는 “국민적 공감대가 전제되어야 한다”는 신중론과 “지금이 적기”라는
+ 추진론이 맞서고 있다.
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### 키워드 뉴스
+순서가 없는 목록 예시입니다.
+- 청와대, 디지털 안보 협력 위한 한미정상회담 준비
+- 국회, 정치자금법 개정안 본회의 통과
+- 제3지대 신당 창당 본격화… 중도층 재편 움직임
 
-#### Header 4
+##### 키워드 뉴스
+순서가 있는는 목록 예시입니다.
+1. 청와대, 디지털 안보 협력 위한 한미정상회담 준비
+2. 국회, 정치자금법 개정안 본회의 통과
+3. 제3지대 신당 창당 본격화… 중도층 재편 움직임
 
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+###### 표 예시
+표 사용 예시입니다.
 
 | head1        | head two          | three |
 | :----------- | :---------------- | :---- |
@@ -71,51 +68,14 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### 구분선 사용 예시
 
 ---
 
-### Here is an unordered list:
-
-- Item foo
-- Item bar
-- Item baz
-- Item zip
-
-### And an ordered list:
-
-1.  Item one
-    1.  Item one
-    1.  Item two
-        1.  Item one
-        1.  Item two
-        1.  Item three
-    1.  Item three
-1.  Item four
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long.
+긴 글은 글박스에 스크롤을 만듭니다. 다음 내용은 예시입니다. 다음 내용은 예시글입니다. 노스탤지어 또는 향수는 타향에서 고향을 그리워하는 것 또는 지나간 시대를 그리워 하는 것을 말한다. 향수를 병에 견주어 향수병이라고 일컫는다.
 ```
 
 ```
-The final element.
+The finals.
 ```
