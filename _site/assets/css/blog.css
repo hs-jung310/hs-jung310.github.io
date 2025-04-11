@@ -3,12 +3,12 @@
 :root {
   --gray-1: #3f3f3f;
   --gray-2: #32353a;
-  --gray-3: #25282c;
-  --gray-4: #151618;
-  --gray-5: #151618;
-  --gray-6: #111111;
-  --white-1: #eeeeee;
-  --white-2: #a9abb3;
+  --gray-3: #fbcccc;
+  --gray-4: #fd8080;
+  --gray-5: #f26262;
+  --gray-6: #f87070;
+  --white-1: #078f8f;
+  --white-2: #eeeeee;
 }
 * {
   font-family: inherit;
